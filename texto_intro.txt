@@ -1,0 +1,21 @@
+"""
+NLP son las siglas en inglés para Procesamiento de Lenguaje Natural (Natural Language Processing), no confundir con
+PNL (Programación Neurolingüística), que es una pseudociencia y no tiene nada que ver con esto (pero es un error común).
+
+El NLP es el campo de la informática que trata las técnicas y la teoría necesaria para tratar lenguaje, escrito o hablado,
+cuando éste se da en formato natural, es decir, en la manera en que los seres humanos hablamos normalmente, y no en formatos
+específicamente creados para ordenadores (como pueden ser los lenguajes de programación).
+
+En resumen, podemos decir que consiste en dotar a los ordenadores de la capacidad para entender o generar lenguaje humano.
+
+Si lo vemos en este bootcamp es porque en los últimos años se ha visto muy beneficiado del auge de la IA.
+Igual que en nuestro caso es nuestro cerebro el que procesa el lenguaje, el NLP se ha desarrollado mucho en el contexto del
+Machine Learning y las Redes Neuronales, en ocasiones siendo el caballo de batalla de organizaciones de la talla de OpenAI.
+
+El modelo más avanzado con el que contamos hasta ahora, los Transformers, fueron inventados por Google para resolver problemas
+de NLP (aunque luego fueran ampliados a la Visión por Computador) y por el desarrollo de algunos de los últimos modelos
+de NLP más potentes (como GPT-3 o Blossom) se ha observado la aparición de ciertos fenómenos emergentes como el
+in context learning, abriendo una posible puerta a la Inteligencia Artificial Fuerte.
+
+Empezando por el principio, no todo son modelos de redes neuronales. Existe mucho procesado que puede hacerse textos naturales
+que 
